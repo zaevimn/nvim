@@ -7,6 +7,8 @@ return {
     ensure_installed = {
       "lua",
       "vim",
+      "prisma",
+      "html",
       -- add more arguments for adding more treesitter parsers
     },
   },
