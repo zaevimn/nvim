@@ -9,6 +9,15 @@ return {
     opts = {
       ensure_installed = {
         "lua_ls",
+        "prismals",
+        "cssls",
+        "cssmodules_ls",
+        "unocss",
+        "html",
+        "jedi_language_server",
+        "tailwindcss",
+        "clangd",
+        "tsserver",
         -- add more arguments for adding more language servers
       },
     },
@@ -20,6 +29,7 @@ return {
     opts = {
       ensure_installed = {
         "stylua",
+        "prettier",
         -- add more arguments for adding more null-ls sources
       },
     },
