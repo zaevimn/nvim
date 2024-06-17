@@ -18,6 +18,7 @@ return {
         "tailwindcss",
         "clangd",
         "tsserver",
+        "emmet_language_server",
         -- add more arguments for adding more language servers
       },
     },
