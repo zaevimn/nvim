@@ -9,6 +9,9 @@ return {
       "vim",
       "prisma",
       "html",
+      "typescript",
+      "javascript",
+      "tsx",
       -- add more arguments for adding more treesitter parsers
     },
   },
