@@ -19,6 +19,7 @@ return {
         "clangd",
         "tsserver",
         "emmet_language_server",
+        "rust_analyzer",
         -- add more arguments for adding more language servers
       },
     },
