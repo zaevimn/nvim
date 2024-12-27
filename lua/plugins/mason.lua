@@ -17,7 +17,7 @@ return {
         "jedi_language_server",
         "tailwindcss",
         "clangd",
-        "tsserver",
+        "ts_ls",
         "emmet_language_server",
         "rust_analyzer",
         -- add more arguments for adding more language servers
