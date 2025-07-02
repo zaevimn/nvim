@@ -14,6 +14,7 @@ return {
 
         -- install formatters
         "stylua",
+        "prettier",
 
         -- install debuggers
         "debugpy",
@@ -22,6 +23,10 @@ return {
         "tree-sitter-cli",
 
         "typescript-language-server",
+        "tailwindcss-language-server",
+        "prisma-language-server",
+        "clangd",
+        "rust-analyzer",
       },
     },
   },
