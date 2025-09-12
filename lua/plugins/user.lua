@@ -6,6 +6,7 @@
 return {
 
   -- == Examples of Adding Plugins ==
+  { "wakatime/vim-wakatime", lazy = false },
 
   {
     "ray-x/lsp_signature.nvim",
