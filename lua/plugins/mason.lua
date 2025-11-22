@@ -22,6 +22,9 @@ return {
         -- install any other package
         "tree-sitter-cli",
 
+        -- python
+        "python-lsp-server",
+
         "typescript-language-server",
         "tailwindcss-language-server",
         "prisma-language-server",
